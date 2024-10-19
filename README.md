@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
+I'm Musab. Currently a student at UOWlv, and I'm working towards becoming a software engineer. 
+
+I enjoy creating things, especially websites. I'm fascinated by big projects that make a real impact. 
+
+Besides my studies I love football, table tennis and cars.
+
+#### Lets Connect!
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/musabmohamed1/)
+  
 <!--
 **musabm24/musabm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
