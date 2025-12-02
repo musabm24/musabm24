@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Musab. Currently a student at UOWlv, and I'm working towards becoming a software engineer. 
+I'm Musab. Currently a student at University of Birmingham, and I'm working towards becoming a Cyber Security Analayst. 
 
 I enjoy creating things, especially websites. I'm fascinated by big projects that make a real impact. 
 
